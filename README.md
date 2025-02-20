@@ -1,4 +1,4 @@
-## 🚀 Open Source Contributions
+## Recent Contributions
 
 - **[Azure-Go-SDK](https://github.com/Azure/azure-sdk-for-go/pull/24040)** – Made it OS compatible  
 - **[Go-Hardware-Inspection-Library](https://github.com/jaypipes/ghw/pull/400)** – Avoided TOCTOU and improved logic  
