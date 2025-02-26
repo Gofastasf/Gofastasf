@@ -1,6 +1,6 @@
 ## Recent Contributions  
 
-- **Terraform** – [Replace custom inode-based file comparison with `os.SameFile`](https://github.com/hashicorp/terraform/pull/36562)  
+- **Terraform** – [Replace custom inode-based file comparison.](https://github.com/hashicorp/terraform/pull/36562)  
 - **Age** – [Replace manual slice management with `bytes.Buffer` in `Writer`](https://github.com/FiloSottile/age/pull/619)  
 - **Grafana** – [Fix `Lstat` call and symlink permission](https://github.com/grafana/grafana/pull/100319)  
 - **Kubernetes** – [Avoid extra `stat` call, enhanced path handling, and improved performance](https://github.com/kubernetes/kubernetes/pull/129944)  
