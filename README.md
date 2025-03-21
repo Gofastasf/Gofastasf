@@ -1,5 +1,6 @@
 ## Recent Contributions  
 
+- **Tesla-Vehicle-Command** -  [Fix an auth bug to ensure Model X door control requires auth and precondition-schedule removal]([https://github.com/thomiceli/opengist/pull/414](https://github.com/teslamotors/vehicle-command/pull/385#event-16873677018))
 - **Terraform** – [Replace custom inode-based file comparison.](https://github.com/hashicorp/terraform/pull/36562)  
 - **Age** – [Replace manual slice management with `bytes.Buffer` in `Writer`](https://github.com/FiloSottile/age/pull/619)  
 - **Grafana** – [Remove redundant sys calls and symlink permission handling](https://github.com/grafana/grafana/pull/100319)  
